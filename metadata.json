@@ -1,0 +1,6 @@
+{
+  "name": "Monethaka",
+  "description": "Personal finance and debt management Android app in Bengali (মনেথাকা) with asset, liability, receivable, and shop credit tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
